@@ -19,6 +19,6 @@ Feel free to clone it and build yours!
 docker run --rm -it -p 27228:27228 --env-file ./.env ghcr.io/conradludgate/spotify-auth-proxy
 ```
 - Once running, browse `Auth URL` to enable tour APIKey
-- Export it with `TF_VAR_spotify_api_key={API_KEY_VALUE_HERE}
-- terraform apply -y
+- Export it with `TF_VAR_spotify_api_key={API_KEY_VALUE_HERE}`
+- `terraform apply -y`
 - Enjoy
