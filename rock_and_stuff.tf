@@ -45,7 +45,8 @@ variable "my-tracks" {
       "https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH?si=06c6c143907a452d",
       "https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL?si=ad9a8dabf2004f18",
       "https://open.spotify.com/track/6mjHiGwrRGE8LVCXVc5QDU?si=31ad49cd94f142bf",
-      "https://open.spotify.com/track/63IIUzd6eJBfCGIcF8MFnJ?si=fae664357a9a438d"
+      "https://open.spotify.com/track/63IIUzd6eJBfCGIcF8MFnJ?si=fae664357a9a438d",
+      "https://open.spotify.com/track/40sl0jG01g4FZkCrBzQhZX?si=85944549fa4f45e9"
 
   ]
 }
